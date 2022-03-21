@@ -1,0 +1,7 @@
+﻿{
+  "server": "localhost",
+  "port": 3306,
+  "username": "Artur",
+  "password": "",
+  "database": "union_reporting"
+}
